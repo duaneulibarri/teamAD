@@ -9,6 +9,7 @@
     <h1>Hello Class</h1>
     <p>hi!</p>
     <h3>Hi, this is Mac.</h3>
+    <p>Charles was here!</p>
 
   </body>
 </html>
