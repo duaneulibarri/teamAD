@@ -7,6 +7,7 @@
   <body>
 
     <h1>Hello Class</h1>
+    <p>hi!</p>
 
   </body>
 </html>
